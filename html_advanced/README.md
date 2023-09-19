@@ -9,3 +9,4 @@ What is the DOM
 What is an element / tag
 What is an attribute
 What the purpose of each HTML tag
+![car](https://github.com/abubakar-ahmed/alu-web-development/assets/128506001/e7d39634-ff19-4a1d-a54c-163c5164fe6c)
